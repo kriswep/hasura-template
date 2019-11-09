@@ -1,0 +1,6 @@
+{
+  "name": "savior-server",
+  "private": true,
+  "main": "noop.js",
+  "scripts": {}
+}

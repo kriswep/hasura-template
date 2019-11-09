@@ -5,7 +5,7 @@ services:
     restart: always
     volumes:
       - db_data:/var/lib/postgresql/data
-  graphql-engine:
+  savior-graphql-engine:
     image: hasura/graphql-engine:v1.0.0-beta.9
     ports:
       - '8090:8080'

@@ -1,5 +1,5 @@
 {
-  "name": "savior-server",
+  "name": "hasura-server",
   "private": true,
   "main": "noop.js",
   "scripts": {}

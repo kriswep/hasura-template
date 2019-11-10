@@ -1,1 +1,1 @@
-# Hasura Savior
+# Hasura Template

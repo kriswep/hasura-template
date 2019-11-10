@@ -6,7 +6,7 @@
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "start": "lerna run start --stream --scope 'grocli-*'"
+    "start": "lerna run start --stream --scope 'hasura-*'"
   },
   "prettier": {
     "singleQuote": true,
